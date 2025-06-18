@@ -1,6 +1,6 @@
 Part 1: Incident Handling Process
 
-Fundemental terminology explained
+Fundamental terminology explained
 
 This module is about procedures to manage and respond to security incidents in a computer or network environment.
 The module follows NIST's Computer Security Incident Handling Guide and provided theoretical knowledge within the following areas.
